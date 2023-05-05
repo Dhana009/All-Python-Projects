@@ -11,7 +11,7 @@ email_receiver = 'tvsdhanan009@gmail.com'
 # Set the subject and body of the email
 subject = 'Check out my new video!'
 body = """
-I've just published a new video on one """
+I've just published a new video on one  apple """
 
 em = EmailMessage()
 em['From'] = email_sender
